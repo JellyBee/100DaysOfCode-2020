@@ -23,4 +23,4 @@ Place for ideas ..
 
 ## My progress
 
-**DAY 1:** The beginning
+**DAY 1:** Warm-up. Couldn't really decide where to start, so I did a little practice thing and did the current challenge on [CodePen](https://codepen.io/miazura/pen/qBExLdw) - HTML multi-buttons with a little css and jQuery.
