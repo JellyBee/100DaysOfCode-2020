@@ -23,4 +23,27 @@ Place for ideas ..
 
 ## My progress
 
-**DAY 1:** Warm-up. Couldn't really decide where to start, so I did a little practice thing and did the current challenge on [CodePen](https://codepen.io/miazura/pen/qBExLdw) - HTML multi-buttons with a little css and jQuery.
+**DAY 1: Warm-up.** Couldn't really decide where to start, so I did a little practice thing and did the current challenge on [CodePen](https://codepen.io/miazura/pen/qBExLdw) - HTML multi-buttons with a little css and jQuery.
+
+**DAY 2: Javascript basics.** On the road today. So instead of coding I completed the "Javascript fundamentals" section with 
+[Grasshopper App](https://learn.grasshopper.app/). I'm not a beginner, but like to repeat basics from time to time.😅 And this app is fun.
+
+**DAY 3: More Javascript basics.** Family party today, but managed to complete the next chapter of Grasshopper App "Fundamentals II" and learned about: 
+
+- String and Array manipulation
+- Ternary operator
+- Recursion
+- Callback functions
+
+**DAY 4: SVG animation basics.** Went on learning with Grasshopper App. I completed the basic SVG animation section using the [D3.js](https://d3js.org/) library. Definitely want to dive deeper later.🤓
+
+**DAY 5 + 6: More Animations.** More fun with Grasshopper App. Easy to integrate in my daily life with baby. Completed "Animations II" using D3.js and learned about arrow functions.
+
+**DAY 7: Javascript Language Basics.** Started my Udemy JS course today. Learned about: 
+
+- Data Types
+- Variable Mutation and Type Coercion
+- Operators
+- Operator Precedence
+
+.. and solved the first little coding challenge of my Udemy course using what I have learned.
