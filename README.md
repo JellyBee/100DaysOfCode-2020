@@ -47,3 +47,33 @@ Place for ideas ..
 - Operator Precedence
 
 .. and solved the first little coding challenge of my Udemy course using what I have learned.
+
+**DAY 8:** First day not coding :( Parenting took all my time and energy..
+
+**DAY 9: Google Interview question solved 🎉** Completed the interview question section of Grasshopper App. Phew! Wasnt that easy 😅
+
+**DAY 10: Data Types.** Had a tiring day, but managed to read more about JS operators and data types. Played around a bit on [w3schools](https://www.w3schools.com/js/js_datatypes.asp). ➡️Learning of the day: JS treats arrays like objects and so 'typeof [1, 2, 3, 4];' returns 'object'. Crazy 😁
+
+**DAY 11: Javascript Language Basics II.** Went on with my Udemy course and learned about: 
+
+- Boolean Logic
+- The ternary operator
+- Switch statements
+.. and solved the second little coding challenge of the course :) BTW: Wasn't new to me. Just repeating basics.
+
+**DAY 12 + 13:** Went on with my Udemy course. After nearly 2 weeks of JS I slowly getting into coding flow again 🤓 After 2 years with nearly only writing HTML & CSS. Feels good! Latest topics:
+
+- Functions
+- Array and Object basics
+- 'this' keyword
+
+**DAY 14:** Second day not coding :(
+
+**DAY 15:** Third day not really coding. Started a pen on CodePen, but had not the time to finish it.
+
+**DAY 16: Javascript Language Basics III.** Completed the Basics section of my Udemy course today. Solved two challenges.
+Topics:
+
+- Classic for loop
+- While loop
+- Reverse for loop
