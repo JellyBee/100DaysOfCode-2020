@@ -77,3 +77,9 @@ Topics:
 - Classic for loop
 - While loop
 - Reverse for loop
+
+**DAY 17: How JS Works under the Hood I.** Today I didn't really code, but studied some fundamental JS basics, you need to understand what is going on under the hood:
+
+- Execution Contexts
+- Execution Stack
+- Hoisting (with functions and variables)
